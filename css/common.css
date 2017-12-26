@@ -1,0 +1,140 @@
+header{
+	width: 100%;
+	overflow: hidden;
+}
+header .head{
+	background-color: #000;
+	width: 100%;
+	height: 30px;
+}
+header .head ul{
+	float: right;
+	width:202px; 
+	height:30px;
+	overflow: hidden;
+}
+header .head ul li{
+	float: left;
+	line-height: 30px;
+
+}
+header .head ul li a{
+	font-size: 14px;
+	color: #fff;
+	line-height:30px;
+}
+header .head ul li img{
+	margin-left: 20px;
+	position: absolute;
+	top:3px;
+	right: 29px;
+}
+header .nav{
+	border-top:1px solid #000 ;
+	border-bottom:1px solid #000 ;
+	background-color: #1c1c1c;
+	height: 48px;
+	overflow: hidden;
+	position: relative;
+}
+header .nav ul{
+	width: 100%;
+	overflow: hidden;
+}
+header .nav ul li{
+	text-align: center;
+	/*margin-right: 40px;*/
+	float: left;
+	line-height: 50px;
+	height: 50px;
+}
+header .nav ul li.w1{
+	width: 100px;
+}
+header .nav ul li.w2{
+	width: 136.59px;
+}
+header .nav ul li.w3{
+	width: 146.98px;
+}
+header .nav ul li.w4{
+	width: 154.53px;
+}
+header .nav ul li.w5{
+	width: 68px;
+}
+header .nav ul li.w6{
+	width: 110px;
+}
+header .nav ul li.w7{
+	width: 82px;
+}
+header .nav ul li.w8{
+	width: 79.33px;
+}
+header .nav ul li a{
+	color: #fff;
+	font-size: 14px;
+}
+header .nav img{
+	float: left;
+	margin-left: 15px;
+	margin-top: 11px;
+}
+header .nav ul li a.ni{
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+header .nav ul li:hover {
+	background-color: blue;
+}
+
+.foot{
+	width: 100%;
+	overflow: hidden;
+	background-color: #333;
+	padding-top: 35px;
+	padding-bottom: 80px;
+	color: #fff;
+}
+ .foot .over{
+	width: 100%;
+	position: relative;
+}
+ .foot .over h4{
+ 	font-size: 16px;
+ 	margin-bottom: 26px;
+ }
+ .foot .over ul{
+	width: 160px;
+	float: left;
+}
+ .foot .over ul li{
+ 	font-size: 14px;
+ 	line-height: 27px;
+ }
+.footdi{
+ 	width: 100%;
+ 	overflow: hidden;
+ 	background-color: #000;
+ 	color: #fff;
+ }
+.footdi .leftwe{
+	float: left;
+}
+.footdi .leftwe ul {
+	float: left;
+}
+.footdi .rightwen{
+	float: right;
+}
+.dibu{
+	background-color: #000;
+	padding-top: 37px;
+}
+.dibu a{
+	color: #fff;
+	display: block;
+	text-align: center;
+}

@@ -1,0 +1,35 @@
+a{
+	text-decoration: none;
+}
+.banner{
+	height:778px;
+	background: url(../images/ff15_bg_01.jpg)no-repeat center top;
+}
+.contion{
+	height: 568px;
+	background:url(..//images/ff15_bg_02.jpg) no-repeat center top;
+	position: relative;
+	overflow: hidden;
+}
+.contion .text{
+	position: absolute;
+	top: 171px;
+	left:259px; 
+	height: 194px;
+	float: left;
+	color: #D3C086;
+}
+.contion .text h3{
+	font-weight: bold;
+	font-size: 30px;
+}
+.contion .text p{
+	line-height: 30px;
+	font-size: 14px;
+}
+.contion .zhong{
+	position: relative;
+}
+.contion .tu{
+	float: right;
+}
